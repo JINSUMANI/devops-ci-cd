@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DevopsCiCdApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Hai");
+		
 		SpringApplication.run(DevopsCiCdApplication.class, args);
 	}
 
